@@ -8,6 +8,9 @@ const StyledAboutSection = styled.section`
   width: 100%;
   max-width: 1000px;
 
+  opacity: ${({$menuOpen}) => $menuOpen ? 0 : 1};
+  transition: opacity 0.2s ease;
+
   margin: 0 auto;
   margin-top: 300px;
   padding: 2rem;
@@ -60,10 +63,11 @@ const StyledAboutSection = styled.section`
 
 export default function About() {
   const language = useSelector((state) => state.language);
+  const $menuOpen = useSelector((state) => state.$menuOpen);
   const { langVar } = useContext(LangVariableContext);
 
   return (
-    <StyledAboutSection>
+    <StyledAboutSection $menuOpen={$menuOpen}>
       <h1 className="about-title">{textData.languages[langVar].about.title}</h1>
       <div className="about-content">
         <p className="about-paragraph">
