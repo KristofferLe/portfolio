@@ -1,0 +1,260 @@
+{
+  "languages": {
+    "en": {
+      "banner": {
+        "greet": "Hi.",
+        "introduction": "My Name Is Kristoffer, but You Can Call Me Kris.",
+        "role": "I'm a Front-End Developer",
+        "extra": "Who build things on the web",
+        "toProject": "View My Work",
+        "toContact": "Let's Talk!"
+      },
+      "skills": {
+        "title": "My Tech Stack"
+      },
+      "about": {
+        "title": "ABOUT ME",
+        "about": "My name is Kristoffer, and I am a front-end developer specializing in web development. Originally from Sweden, I am currently based in Dublin, Ireland. My expertise lies in creating seamless and responsive websites that adapt to different devices. I prioritize user experience and ensure that the websites I build are visually appealing and easy to navigate. With my skills in front-end technologies like HTML, CSS, and JavaScript, I have the ability to bring designs to life and create interactive web experiences. I am also proficient in using frameworks like React to develop dynamic and efficient user interfaces."
+      },
+      "footer": {
+        "footerContent": {
+          "top": "Get In Touch",
+          "middle": "'' The best code is no code at all '' - Jeff Atwood"
+        }
+      },
+      "projectPage": {
+        "planet": "Planet Overview",
+        "dictionary": "Online Dictionary",
+        "portfolio": "Portfolio",
+        "portfolioType": "Personal Project"
+      },
+      "contactForm": {
+        "labels": {
+          "name": "Name",
+          "email": "Email",
+          "message": "Message",
+          "buttonText": "Send Message",
+          "loadingButtonText": "Sending..."
+        },
+        "placeholders": {
+          "name": "Enter your name...",
+          "email": "Enter your email...",
+          "message": "Hi Kris, I would like to..."
+        },
+        "sideMessage": {
+          "one": "Let's have a chat",
+          "two": "What are you looking for?"
+        }
+      },
+      "projectDescription": {
+        "pageName": "Project Description",
+        "builtWithTitle": "Built With",
+        "featureTitle": "Features",
+        "featureNotFound": "No features found...",
+        "techNotFound": "No tech was found...",
+        "clientTitle": "Client",
+        "seeLiveButton": "See Live",
+
+        "planetOverview": {
+          "title": "Planet Overview",
+          "description": "As a space enthusiast, I wanted to create a project about the vast vacuum of space that we float around in. Not being a designer, I initially struggled with figuring out a good design. This project was a challenge from FrontEnd Mentor, where I was provided with a design and a design system. The main goal was to ensure that the different pages transitioned seamlessly and that the tabs and navigation links had the corresponding colors. Also a small animation addition with the help of Framer Motion",
+          "tech": [
+            "React",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "TailwindCSS",
+            "React Router",
+            "Context API",
+            "React Responsive",
+            "Framer Motion",
+            "VScode",
+            "Project IDX",
+            "Netlify"
+          ],
+          "features": [
+            "See each planet in our solar system",
+            "Display different characteristics of each planet",
+            "Three different tabs of content for each planet"
+          ]
+        },
+        "dictionaryDesc": {
+          "title": "Online Dictionary",
+          "description": "This app is a simple yet powerful dictionary tool. It allows you to choose from multiple fonts and toggle between dark and light modes, so you can read the meaning of your favorite words in a way that suits your preferences. This project is a challenge from FrontEnd Mentor, which provided the design and color schemes. Using the https://dictionaryapi.dev/ API and a custom useFetch hook, the app retrieves and displays information about the searched word.",
+          "tech": [
+            "React",
+            "React Icons",
+            "Custom Hooks",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Styled Components",
+            "Fetch API",
+            "Context API"
+          ],
+          "features": [
+            "Search for all the worlds words. (English Dictionary)",
+            "Choose between 7 different fonts",
+            "Darkmode Functionality",
+            "Fully Responsive"
+          ]
+        },
+        "portfolioDesc": {
+          "title": "Portfolio Website",
+          "description": "A modern portfolio website to showcase some of my projects and also what skills I possess. You will find 3 main pages with information about who I am, a project page for all the projects I think is worth sharing and also a contact page were you can directly contact me through filling out the form provided.",
+          "tech": [
+            "React",
+            "React Router",
+            "Redux",
+            "Custom Hooks",
+            "VScode",
+            "Vite",
+            "React Icons",
+            "Framer Motion",
+            "CSS / Styled Components",
+            "emailjs",
+            "Project IDX"
+          ],
+          "features": [
+            "Project Overview",
+            "Choose between 2 languages",
+            "Toggle between dark and light mode",
+            "Email service for contact"
+          ]
+        }
+      },
+      "notFound": {
+        "sorry": "OH NO! SOMETHING WENT WRONG, AND THE PAGE WAS NOT FOUND",
+        "refresh": "PLEASE, REFRESH THE PAGE OR TRY AGAIN LATER"
+      }
+    },
+    "sv": {
+      "banner": {
+        "greet": "Hej.",
+        "introduction": "Mitt namn är Kristoffer",
+        "role": "Jag är en Front-End Utvecklare",
+        "extra": "Som bygger saker på nätet",
+        "toProject": "Mina Projekt",
+        "toContact": "Kontakta mig "
+      },
+      "skills": {
+        "title": "Kunskaper"
+      },
+      "about": {
+        "title": "OM MIG",
+        "about": "Jag heter Kristoffer och är en frontend-utvecklare med inriktning på webbutveckling. Jag kommer ursprungligen från Sverige och är för närvarande baserad i Dublin, Irland. Min expertis ligger i att skapa sömlösa och responsiva webbplatser som anpassar sig till olika enheter. Jag prioriterar användarupplevelsen och ser till att webbplatserna jag bygger är visuellt tilltalande och lättnavigerade. Med mina kunskaper inom front-end-teknologier som HTML, CSS och JavaScript har jag förmågan att ge design liv och skapa interaktiva webbupplevelser. Jag är också skicklig på att använda ramverk som React för att utveckla dynamiska och effektiva användargränssnitt."
+      },
+      "footer": {
+        "footerContent": {
+          "top": "Kontakta Mig",
+          "middle": "'' The best code is no code at all '' - Jeff Atwood"
+        }
+      },
+      "projectPage": {
+        "planet": "Vårt solsystem",
+        "dictionary": "Online Lexikon",
+        "portfolio": "Portfolio",
+        "portfolioType": "Personligt Projekt"
+      },
+      "contactForm": {
+        "labels": {
+          "name": "Namn",
+          "email": "Email",
+          "message": "Meddelande",
+          "buttonText": "Skicka Meddelande",
+          "loadingButtonText": "Skickar..."
+        },
+        "placeholders": {
+          "name": "Ditt namn...",
+          "email": "Din mail...",
+          "message": "Hej Kristoffer, jag har en fråga om..."
+        },
+        "sideMessage": {
+          "one": "Har du en grym idé?",
+          "two": "Tveka inte att skicka ett meddelande"
+        }
+      },
+      "projectDescription": {
+        "pageName": "Projekt Detaljer",
+        "builtWithTitle": "Byggd Med",
+        "featureTitle": "Funktioner",
+        "featureNotFound": "Inga funktioner hittade...",
+        "techNotFound": "Inga teknologier hittade...",
+        "clientTitle": "Klient",
+        "seeLiveButton": "Se Live",
+
+        "planetOverview": {
+          "title": "Vårt solsystem",
+          "description": "Som rymdentusiast ville jag skapa ett projekt om det stora vakuum i rymden som vi svävar runt i. Eftersom jag inte är en designer hade jag initialt svårt att hitta en bra design. Detta projekt var en utmaning från FrontEnd Mentor, där jag fick en design och ett designsystem. Huvudmålet var att säkerställa att de olika sidorna övergick sömlöst och att flikarna och navigationslänkarna hade motsvarande färger. Även en liten animationsdel med hjälp av Framer Motion.",
+          "tech": [
+            "React",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "TailwindCSS",
+            "React Router",
+            "Context API",
+            "React Responsive",
+            "Framer Motion",
+            "VScode",
+            "Project IDX",
+            "Netlify"
+          ],
+          "features": [
+            "Se varje planet i solsystemet",
+            "Visa olika egenskaper för varje planet",
+            "Tre olika flikar med innehåll för varje planet"
+          ]
+        },
+        "dictionaryDesc": {
+          "title": "Online Dictionary",
+          "description": "Den här appen är ett enkelt men kraftfullt lexikonverktyg. Den låter dig välja mellan flera olika typsnitt och växla mellan mörkt och ljust läge, så att du kan läsa betydelsen av dina favoritord på ett sätt som passar dina preferenser. Detta projekt är en utmaning från FrontEnd Mentor, som tillhandahöll designen och färgscheman. Med hjälp av https://dictionaryapi.dev/ API och en anpassad useFetch-hook hämtar och visar appen information om det sökta ordet..",
+          "tech": [
+            "React",
+            "React Icons",
+            "Custom Hooks",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Styled Components",
+            "Fetch API",
+            "Context API"
+          ],
+          "features": [
+            "Sök efter alla världens ord. (Engelskt lexikon)",
+            "Välj mellan 7 olika typsnitt",
+            "Mörkt läge-funktionalitet",
+            "Helt responsiv"
+          ]
+        },
+        "portfolioDesc": {
+          "title": "Portfolio Hemsida",
+          "description": "En modern portföljwebbplats för att visa några av mina projekt och vilka färdigheter jag har. Du kommer att hitta 3 huvudsidor med information om vem jag är, en projektsida för alla projekt jag anser vara värda att dela samt en kontaktsida där du kan kontakta mig direkt genom att fylla i det angivna formuläret.",
+          "tech": [
+            "React",
+            "React Router",
+            "Redux",
+            "Custom Hooks",
+            "VScode",
+            "Vite",
+            "React Icons",
+            "Framer Motion",
+            "CSS / Styled Components",
+            "emailjs",
+            "Project IDX"
+          ],
+          "features": [
+            "Projekt Översikt",
+            "Välj mellan 2 språk",
+            "Mörkt läge-funktionalitet",
+            "Email service för kontakt"
+          ]
+        }
+      },
+      "notFound": {
+        "sorry": "ÅH NEJ, SIDAN HITTADES INTE",
+        "refresh": "LADDA OM SIDAN ELLER KOM TILLBAKA SENARE"
+      }
+    }
+  }
+}
