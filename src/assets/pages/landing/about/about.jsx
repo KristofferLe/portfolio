@@ -25,6 +25,8 @@ const StyledAboutSection = styled.section`
 
     @media screen and (max-width: 900px) {
       flex-direction: column;
+      width: 320px;
+      transform: translateX(-10px);
     }
   }
 
@@ -48,6 +50,11 @@ const StyledAboutSection = styled.section`
     width: 400px;
     border-radius: 50%;
     object-fit: cover;
+
+    @media screen and (max-width: 900px) {
+      width: 250px;
+      height: 250px;
+    }
   }
 `;
 

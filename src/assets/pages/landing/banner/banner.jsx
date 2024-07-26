@@ -21,6 +21,10 @@ const BannerContainer = styled.section`
   text-align: center;
   font-size: 1.5rem;
 
+  @media screen and (max-width: 1000px) {
+    padding: .2rem;
+  }
+
   .banner-extra {
     color: rgba(180, 180, 180, 1);
     font-size: 0.9rem;

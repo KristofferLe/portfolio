@@ -17,6 +17,7 @@ const StyledContactPage = styled.section`
 
   @media screen and (max-width: 800px) {
     flex-direction: column-reverse;
+    padding: 1rem;
   }
 `;
 
