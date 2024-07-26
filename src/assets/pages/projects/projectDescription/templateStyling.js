@@ -2,6 +2,7 @@ import styled from "styled-components";
 import colors from "../../../designSystem/colors.js";
 
 const StyledTemplate = styled.article`
+p
   width: 100%;
   display: flex;
   align-items: center;
