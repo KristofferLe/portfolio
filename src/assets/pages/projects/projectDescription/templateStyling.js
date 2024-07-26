@@ -11,6 +11,10 @@ const StyledTemplate = styled.article`
     text-decoration: underline;
   }
 
+  @media screen and (min-width: 1000px) {
+    height: 100vh;
+  }
+
   .project-info-container,
   .features-container {
     padding: 1rem;
