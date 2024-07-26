@@ -2,7 +2,7 @@ import styled from "styled-components";
 import colors from "../../../designSystem/colors.js";
 
 const StyledTemplate = styled.article`
-p
+  padding-top: 50px;
   width: 100%;
   display: flex;
   align-items: center;
@@ -14,6 +14,7 @@ p
 
   @media screen and (min-width: 1000px) {
     height: 100vh;
+    padding-top: 0px;
   }
 
   .project-info-container,
